@@ -9,6 +9,7 @@
 2.阶段二：熟悉利用python/golang接口向阶段一搭建的文件系统进行文件上传、下载、查询、删除；
 
 3.阶段三：利用web技术及阶段二成果建立小型网盘，实现文件的可视化上传、下载、查询、删除；
+<<<<<<< HEAD
 
 使用技术：hdfs、docker、python/golang、http、python.flask(原javascript（es6）、html5、css3)等；
 后端运行环境：X86_X64、Hadoop3.X；
@@ -47,3 +48,5 @@ docker打包，直接上传到公司服务器
 实现点击上传就行，上传下载
 
 不
+=======
+>>>>>>> 7b98422e0675831056edf710e7546c235b9c55cc
